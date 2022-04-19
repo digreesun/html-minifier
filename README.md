@@ -1,7 +1,7 @@
-# CAUTION
-This is a *modified* version of HTML minifier 4.0 by [kangax](https://github.com/kangax)\
+# Caution
+This is a **modified** fork of **HTML minifier 4.0** by [kangax](https://github.com/kangax)
 
-Original version here [HTMLMinifier](https://kangax.github.io/html-minifier/)
+Original repository here: [html-minifier](https://github.com/kangax/html-minifier)
 
 
 ## Installation Instructions
@@ -11,3 +11,4 @@ git clone git://github.com/digreesun/html-minifier.git
 cd html-minifier
 npm link .
 ```
+This is a modified fork of HTML minifier 4.0 by Kangax
